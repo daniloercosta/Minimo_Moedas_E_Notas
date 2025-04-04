@@ -54,4 +54,4 @@ Este projeto é apenas para fins educacionais e de prática. Sinta-se à vontade
 
 ---
 
-Desenvolvido por [Seu Nome]
+Desenvolvido por Danilo E.R. da Costa
